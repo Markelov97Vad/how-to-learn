@@ -28,7 +28,7 @@
 }
 
 .header__title {
-  width: 730px;
+  max-width: 730px;
   font-size: 102px;
   font-weight: 600;
   line-height: 96px;
@@ -332,8 +332,6 @@
 
 .logo_place_footer {
   background-image: url(../images/logo_place_footer.svg);
-  width: 228px;
-  height: 32px;
 }
 
 .footer__author {
