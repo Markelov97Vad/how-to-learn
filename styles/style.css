@@ -185,7 +185,7 @@
   position: relative;
   margin-top: 100px;
   min-height: 890px;
-  background: #F2F2F2 url(../images/feynman.png) no-repeat bottom left ;
+  background: #F2F2F2 url(../images/feynman.png) no-repeat bottom left;
   background-size: 867px 637px;
 }
 
@@ -193,7 +193,7 @@
   width: 648px;
   font-size: 120px;
   font-weight: 600;
-  line-height: 1.15; 
+  line-height: 1.15;
   text-align: center;
   margin: 0 auto;
 }
@@ -346,4 +346,4 @@
   padding: 0;
   margin: 0;
 }
-
+/* Спасибо большое вам за ревью, стало наконец-то все понятно!*/
