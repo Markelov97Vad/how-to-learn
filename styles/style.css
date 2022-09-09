@@ -154,7 +154,7 @@
 
 .table {
   width: 1100px;
-  margin: 0 auto 100px auto;
+  margin: 0 auto 0 auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -183,7 +183,6 @@
 
 .feynman {
   position: relative;
-  margin-top: 100px;
   min-height: 890px;
   background: #F2F2F2 url(../images/feynman.png) no-repeat bottom left;
   background-size: 867px 637px;
@@ -196,6 +195,7 @@
   line-height: 1.15;
   text-align: center;
   margin: 0 auto;
+  padding: 100px 0 0;
 }
 
 .feynman__subtitle {
@@ -346,4 +346,3 @@
   padding: 0;
   margin: 0;
 }
-/* Спасибо большое вам за ревью, стало наконец-то все понятно!*/
