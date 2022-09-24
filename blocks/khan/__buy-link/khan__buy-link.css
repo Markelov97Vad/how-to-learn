@@ -5,4 +5,10 @@
     margin-left: 48px;
     text-decoration: none;
     color: #2F80ED;
+    align-self: flex-start;
+    transition: opacity .2s linear;
+}
+
+.khan__buy-link:hover {
+    opacity: 0.6;
 }
