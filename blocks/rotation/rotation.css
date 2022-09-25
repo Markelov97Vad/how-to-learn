@@ -7,10 +7,6 @@
     }
   }
 
-  .rotation-square {
-    animation: rotation 20s linear infinite;
-  }
-
-  .rotation-triangle {
+  .rotation {
     animation: rotation 20s linear infinite;
   }
